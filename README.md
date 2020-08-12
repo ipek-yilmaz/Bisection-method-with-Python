@@ -3,3 +3,11 @@
  
  <br> </br>
  ![](https://github.com/ipek-yilmaz/Bisection-method-with-Python/blob/master/bisection_algorithm.PNG)
+ 
+ 
+ **Reference**
+ 
+ 
+ 
+ 
+Algorithm is taken from here [click to go algorithm](https://www.codewithc.com/bisection-method-algorithm-flowchart/)
