@@ -10,4 +10,4 @@
  
  
  
-Algorithm is taken from here [click to go algorithm](https://www.codewithc.com/bisection-method-algorithm-flowchart/)
+Algorithm steps are taken from here [click to go algorithm](https://www.codewithc.com/bisection-method-algorithm-flowchart/)
